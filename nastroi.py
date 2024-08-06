@@ -25,3 +25,5 @@ SCHIRPOLOS = SIZE[0] / POLOS
 
 VIOL = [139, 0, 255]
 RED = [255, 0, 0]
+
+print("Hello")
